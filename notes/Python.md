@@ -4,5 +4,3 @@
 **Last updated**: 2026-08-23
 
 ---
-
-- See [[Archaeology]] for the agribound field boundary delineation package.
