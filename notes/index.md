@@ -4,7 +4,7 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 
 ## Latest Finds
 
-- [Building a Resilient Bengaluru — Resources & Final Report](https://buildingaresilientbengaluru.com/resources/#city-report) — [[My_Publication]] — Co-authored resources page and final report for a public information campaign on stormwater resilience in Bengaluru.
+- [Building a Resilient Bengaluru — Resources & Final Report](https://buildingaresilientbengaluru.com/resources/#city-report) — [[Urban_Water_and_Resilience]] — Co-authored resources page and final report for a public information campaign on stormwater resilience in Bengaluru.
 - [Optimizing DuckDB Spatial Queries](https://www.geomermaids.com/cookbook/duckdb-spatial/) — [[SQL]] — Translates PostGIS spatial join patterns to DuckDB, showing how to get index-backed performance since DuckDB doesn't fold spatial indexing into query planning automatically.
 - [Stop using land surface temperature as an urban heat hazard proxy](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/) — [[Urban_Planning]] — Satellite land surface temperature is routinely mistaken for air temperature in viral urban heat maps, overstating both heat hazard and the cooling benefit of trees.
 
