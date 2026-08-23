@@ -4,7 +4,7 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 
 ## Latest Finds
 
-- [A Geospatial Study of Archaeological Remains at Halebidu](https://link.springer.com/article/10.1007/s12524-020-01272-8) — [[My_Publication]] — Das & Rajani (2021) use remote sensing and GIS to identify previously unrecorded archaeological features around the Halebidu heritage site.
+- [Facets of Indian Culture](https://www.abebooks.com/servlet/BookDetailsPL?bi=32443900193) — [[My_Publication]] — Conference volume including Das & Rajani's chapter "Palimbothra to Patna: Reconstructing the Ancient Landscape using Geospatial Analysis."
 - [Tipu's Lost Paradise Found](https://bangaloremirror.indiatimes.com/bangalore/cover-story/tipus-lost-paradise-found/heroesshow/56693412.cms) — [[Archaeology]] — Bangalore Mirror cover story on research into a lost Tipu Sultan-era garden landscape in Bangalore, tied to NIAS heritage-mapping work.
 - [Framework for Lake Rejuvenation](https://welllabs.org/wp-content/uploads/2026/08/Framework-for-Lake-Rejuvenation.pdf) — [[Urban_Water_and_Resilience]] — WELL Labs' science-based, community-informed five-stage framework for reviving urban and peri-urban lakes in peninsular India.
 
