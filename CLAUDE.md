@@ -58,6 +58,7 @@ Thematic Topics
 * Climate Change
 * Urban Planning
 * Urban Water and Resilience
+* Bangalore
 * Archaeology
 * Remote Sensing
 * Cartography
