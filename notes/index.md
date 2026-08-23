@@ -4,9 +4,9 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 
 ## Latest Finds
 
+- [A Geospatial Study of Archaeological Remains at Halebidu](https://link.springer.com/article/10.1007/s12524-020-01272-8) — [[My_Publication]] — Das & Rajani (2021) use remote sensing and GIS to identify previously unrecorded archaeological features around the Halebidu heritage site.
+- [Tipu's Lost Paradise Found](https://bangaloremirror.indiatimes.com/bangalore/cover-story/tipus-lost-paradise-found/heroesshow/56693412.cms) — [[Archaeology]] — Bangalore Mirror cover story on research into a lost Tipu Sultan-era garden landscape in Bangalore, tied to NIAS heritage-mapping work.
 - [Framework for Lake Rejuvenation](https://welllabs.org/wp-content/uploads/2026/08/Framework-for-Lake-Rejuvenation.pdf) — [[Urban_Water_and_Resilience]] — WELL Labs' science-based, community-informed five-stage framework for reviving urban and peri-urban lakes in peninsular India.
-- [Optimizing DuckDB Spatial Queries](https://www.geomermaids.com/cookbook/duckdb-spatial/) — [[SQL]] — Translates PostGIS spatial join patterns to DuckDB, showing how to get index-backed performance since DuckDB doesn't fold spatial indexing into query planning automatically.
-- [Stop using land surface temperature as an urban heat hazard proxy](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/) — [[Urban_Planning]] — Satellite land surface temperature is routinely mistaken for air temperature in viral urban heat maps, overstating both heat hazard and the cooling benefit of trees.
 
 ## Topics
 
