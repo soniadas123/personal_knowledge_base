@@ -20,7 +20,7 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 ### Thematic Topics
 
 - [Remote Sensing](Remote_Sensing.md) -- satellite imagery, geospatial data products, Earth observation
-- [Agriculture](Agriculture.md) -- agricultural mapping, field boundary delineation
+- [Archaeology](Archaeology.md) -- archaeology and related geospatial applications
 - [Climate Change](Climate_Change.md) -- climate change impacts, natural disasters, related datasets
 - [Urban Planning](Urban_Planning.md) -- cities, urban heat, land use, planning-relevant geospatial data
 - [Urban Heat Islands](Urban_Heat_Islands.md) -- urban heat island effect: causes, measurement, mitigation

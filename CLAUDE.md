@@ -43,7 +43,7 @@ This vault is published as a MkDocs site on GitHub Pages. After ingesting new no
 
 ## List of Topics
 
-Here are some of the topics for the notes you may find. The topics can be Technology focused (i.e. Python, Xarray) or Theme focused (Climate Change, Agriculture). When deciding the main topic when a note covers both - use the theme focused topic as the primary topic.
+Here are some of the topics for the notes you may find. The topics can be Technology focused (i.e. Python, Xarray) or Theme focused (Climate Change, Archaeology). When deciding the main topic when a note covers both - use the theme focused topic as the primary topic.
 
 Technology Topics
 * Machine Learning
@@ -57,7 +57,7 @@ Technology Topics
 Thematic Topics
 * Climate Change
 * Urban Planning
-* Agriculture
+* Archaeology
 * Remote Sensing
 * Cartography
 

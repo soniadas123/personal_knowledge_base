@@ -1,6 +1,6 @@
-# Agriculture
+# Archaeology
 
-**Summary**: Notes on agricultural mapping, field boundary delineation, and related geospatial applications.
+**Summary**: Notes on archaeology and related geospatial applications.
 **Last updated**: 2026-08-23
 
 ---
