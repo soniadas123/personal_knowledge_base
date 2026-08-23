@@ -4,9 +4,9 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 
 ## Latest Finds
 
+- [Optimizing DuckDB Spatial Queries](https://www.geomermaids.com/cookbook/duckdb-spatial/) — [[SQL]] — Translates PostGIS spatial join patterns to DuckDB, showing how to get index-backed performance since DuckDB doesn't fold spatial indexing into query planning automatically.
 - [Stop using land surface temperature as an urban heat hazard proxy](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/) — [[Urban_Planning]] — Satellite land surface temperature is routinely mistaken for air temperature in viral urban heat maps, overstating both heat hazard and the cooling benefit of trees.
 - [Groundsource](https://zenodo.org/records/18647054) — [[Climate_Change]] — A curated dataset of ~2.6 million historical flood occurrence events extracted from global news sources.
-- [agribound](https://github.com/montimaj/agribound) — [[Agriculture]] — Python package combining seven complementary approaches to delineate agricultural field boundaries from satellite imagery.
 
 ## Topics
 
@@ -15,6 +15,7 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 - [Embeddings](Embeddings.md) -- vector embeddings, including geospatial/earth embeddings
 - [Python](Python.md) -- Python packages, tools, and techniques
 - [Data](Data.md) -- datasets, data sources, and data-related tools
+- [SQL](SQL.md) -- SQL, spatial SQL, and query optimization across database engines
 
 ### Thematic Topics
 

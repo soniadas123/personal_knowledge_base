@@ -5,4 +5,5 @@
 
 ---
 
+- See [[SQL]] for notes on optimizing spatial queries in DuckDB.
 - See [[Climate_Change]] for the Groundsource flood occurrence dataset.
