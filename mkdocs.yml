@@ -57,6 +57,7 @@ plugins:
 nav:
   - Home:
     - index.md
+    - My Publication: My_Publication.md
     - Embeddings: Embeddings.md
     - Python: Python.md
     - Data: Data.md
@@ -64,6 +65,7 @@ nav:
     - Climate Change: Climate_Change.md
     - Urban Planning: Urban_Planning.md
     - Urban Heat Islands: Urban_Heat_Islands.md
+    - Urban Water and Resilience: Urban_Water_and_Resilience.md
     - Archaeology: Archaeology.md
     - Remote Sensing: Remote_Sensing.md
     - Changelog: log.md

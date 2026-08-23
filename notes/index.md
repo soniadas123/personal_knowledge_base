@@ -24,3 +24,8 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 - [Climate Change](Climate_Change.md) -- climate change impacts, natural disasters, related datasets
 - [Urban Planning](Urban_Planning.md) -- cities, urban heat, land use, planning-relevant geospatial data
 - [Urban Heat Islands](Urban_Heat_Islands.md) -- urban heat island effect: causes, measurement, mitigation
+- [Urban Water and Resilience](Urban_Water_and_Resilience.md) -- urban water management, water resilience, climate adaptation
+
+### Personal
+
+- [My Publication](My_Publication.md) -- links to my own publications

@@ -57,9 +57,13 @@ Technology Topics
 Thematic Topics
 * Climate Change
 * Urban Planning
+* Urban Water and Resilience
 * Archaeology
 * Remote Sensing
 * Cartography
+
+Personal Topics
+* My Publication -- links to my own publications; add a new entry here whenever I mention a paper/article of mine
 
 ## Topic Page Format
 
