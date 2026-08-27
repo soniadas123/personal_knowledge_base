@@ -4,8 +4,8 @@ Table of contents for all notes pages. Updated whenever a new topic page is crea
 
 ## Latest Finds
 
+- [GeoLibre](https://www.linkedin.com/feed/update/urn:li:activity:7466223568356343808/) — [[Data]] — Lightweight, cloud-native desktop GIS built with MapLibre GL JS and Tauri, supporting GeoJSON, GeoParquet, LiDAR, and more.
 - [JPMorganChase](https://github.com/jpmorganchase) — [[Python]] — Open source GitHub organization page hosting 74+ repositories, including Python-training and the QOKit quantum computing toolkit.
-- [TerraClimate](https://www.climatologylab.org/terraclimate.html) — [[Data]] — Monthly climate and climatic water balance dataset for global terrestrial surfaces, 1950-present, at ~4-km resolution, including future warming-scenario projections.
 - [Facets of Indian Culture](https://www.abebooks.com/servlet/BookDetailsPL?bi=32443900193) — [[My_Publication]] — Conference volume including Das & Rajani's chapter "Palimbothra to Patna: Reconstructing the Ancient Landscape using Geospatial Analysis."
 
 ## Topics
